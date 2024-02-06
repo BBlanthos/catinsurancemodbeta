@@ -1,0 +1,17 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Catinsurance"
+        skin="character_catinsurance.png"
+        nameimage="playername_catinsurance.png"
+        soulhearts="4"
+        eternalheart="1"
+        bombs="1"
+        portrait="playerportrait_catinsurance.png"
+        skinColor="-1"
+        items="229"
+        speedmodifier="0.3"
+        shotspeedmodifier="1"
+        firedelaymodifier="2"
+        speedmodifier="0.3"
+        damagemodifier="-2"
+    />
+</players>
